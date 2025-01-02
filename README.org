@@ -1,0 +1,9 @@
+* cl-digraph
+
+A simple directed graph implementation for Common Lisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/sjl/cl-digraph.git |
+| commit  | 45b6db9                                   |
+| systems | cl-digraph cl-digraph.dot                 |
+|---------+-------------------------------------------|
